@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\bin\Debug\netcoreapp2.1\03.Max-Method.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\bin\Debug\netcoreapp2.1\03.Max-Method.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\bin\Debug\netcoreapp2.1\03.Max-Method.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\bin\Debug\netcoreapp2.1\03.Max-Method.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\bin\Debug\netcoreapp2.1\03.Max-Method.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\obj\Debug\netcoreapp2.1\03.Max-Method.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\obj\Debug\netcoreapp2.1\03.Max-Method.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\obj\Debug\netcoreapp2.1\03.Max-Method.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\obj\Debug\netcoreapp2.1\03.Max-Method.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\obj\Debug\netcoreapp2.1\03.Max-Method.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\03.Max-Method\obj\Debug\netcoreapp2.1\03.Max-Method.pdb

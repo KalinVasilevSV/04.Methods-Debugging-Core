@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\bin\Debug\netcoreapp2.1\08.Center-Point.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\bin\Debug\netcoreapp2.1\08.Center-Point.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\bin\Debug\netcoreapp2.1\08.Center-Point.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\bin\Debug\netcoreapp2.1\08.Center-Point.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\bin\Debug\netcoreapp2.1\08.Center-Point.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\obj\Debug\netcoreapp2.1\08.Center-Point.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\obj\Debug\netcoreapp2.1\08.Center-Point.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\obj\Debug\netcoreapp2.1\08.Center-Point.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\obj\Debug\netcoreapp2.1\08.Center-Point.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\obj\Debug\netcoreapp2.1\08.Center-Point.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\08.Center-Point\obj\Debug\netcoreapp2.1\08.Center-Point.pdb

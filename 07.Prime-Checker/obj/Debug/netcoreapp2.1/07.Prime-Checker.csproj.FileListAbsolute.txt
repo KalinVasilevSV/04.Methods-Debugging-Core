@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\bin\Debug\netcoreapp2.1\07.Prime-Checker.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\bin\Debug\netcoreapp2.1\07.Prime-Checker.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\bin\Debug\netcoreapp2.1\07.Prime-Checker.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\bin\Debug\netcoreapp2.1\07.Prime-Checker.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\bin\Debug\netcoreapp2.1\07.Prime-Checker.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\obj\Debug\netcoreapp2.1\07.Prime-Checker.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\obj\Debug\netcoreapp2.1\07.Prime-Checker.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\obj\Debug\netcoreapp2.1\07.Prime-Checker.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\obj\Debug\netcoreapp2.1\07.Prime-Checker.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\07.Prime-Checker\obj\Debug\netcoreapp2.1\07.Prime-Checker.pdb

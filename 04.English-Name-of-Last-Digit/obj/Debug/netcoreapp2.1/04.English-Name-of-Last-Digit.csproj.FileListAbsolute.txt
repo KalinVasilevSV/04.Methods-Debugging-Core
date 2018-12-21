@@ -1,0 +1,10 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\obj\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\obj\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\obj\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\bin\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\bin\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\bin\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\bin\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\bin\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\obj\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\04.English-Name-of-Last-Digit\obj\Debug\netcoreapp2.1\04.English-Name-of-Last-Digit.pdb

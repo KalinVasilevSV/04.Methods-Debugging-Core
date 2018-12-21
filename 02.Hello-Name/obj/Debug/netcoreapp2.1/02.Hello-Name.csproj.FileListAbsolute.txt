@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\bin\Debug\netcoreapp2.1\02.Hello-Name.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\bin\Debug\netcoreapp2.1\02.Hello-Name.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\bin\Debug\netcoreapp2.1\02.Hello-Name.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\bin\Debug\netcoreapp2.1\02.Hello-Name.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\bin\Debug\netcoreapp2.1\02.Hello-Name.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\obj\Debug\netcoreapp2.1\02.Hello-Name.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\obj\Debug\netcoreapp2.1\02.Hello-Name.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\obj\Debug\netcoreapp2.1\02.Hello-Name.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\obj\Debug\netcoreapp2.1\02.Hello-Name.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\obj\Debug\netcoreapp2.1\02.Hello-Name.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\02.Hello-Name\obj\Debug\netcoreapp2.1\02.Hello-Name.pdb
