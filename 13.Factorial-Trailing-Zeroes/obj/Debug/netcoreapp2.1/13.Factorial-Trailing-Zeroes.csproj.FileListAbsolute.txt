@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\bin\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\13.Factorial-Trailing-Zeroes\obj\Debug\netcoreapp2.1\13.Factorial-Trailing-Zeroes.pdb

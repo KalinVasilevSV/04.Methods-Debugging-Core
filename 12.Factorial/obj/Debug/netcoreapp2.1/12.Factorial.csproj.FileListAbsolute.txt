@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\bin\Debug\netcoreapp2.1\12.Factorial.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\bin\Debug\netcoreapp2.1\12.Factorial.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\bin\Debug\netcoreapp2.1\12.Factorial.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\bin\Debug\netcoreapp2.1\12.Factorial.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\bin\Debug\netcoreapp2.1\12.Factorial.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\obj\Debug\netcoreapp2.1\12.Factorial.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\obj\Debug\netcoreapp2.1\12.Factorial.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\obj\Debug\netcoreapp2.1\12.Factorial.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\obj\Debug\netcoreapp2.1\12.Factorial.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\obj\Debug\netcoreapp2.1\12.Factorial.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\12.Factorial\obj\Debug\netcoreapp2.1\12.Factorial.pdb

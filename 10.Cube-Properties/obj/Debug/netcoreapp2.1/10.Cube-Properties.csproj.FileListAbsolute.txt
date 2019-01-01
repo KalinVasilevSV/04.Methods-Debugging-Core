@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\bin\Debug\netcoreapp2.1\10.Cube-Properties.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\bin\Debug\netcoreapp2.1\10.Cube-Properties.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\bin\Debug\netcoreapp2.1\10.Cube-Properties.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\bin\Debug\netcoreapp2.1\10.Cube-Properties.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\bin\Debug\netcoreapp2.1\10.Cube-Properties.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\obj\Debug\netcoreapp2.1\10.Cube-Properties.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\obj\Debug\netcoreapp2.1\10.Cube-Properties.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\obj\Debug\netcoreapp2.1\10.Cube-Properties.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\obj\Debug\netcoreapp2.1\10.Cube-Properties.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\obj\Debug\netcoreapp2.1\10.Cube-Properties.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\10.Cube-Properties\obj\Debug\netcoreapp2.1\10.Cube-Properties.pdb

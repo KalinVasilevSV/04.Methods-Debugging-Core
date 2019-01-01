@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\bin\Debug\netcoreapp2.1\11.Geometry-Calculator.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\bin\Debug\netcoreapp2.1\11.Geometry-Calculator.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\bin\Debug\netcoreapp2.1\11.Geometry-Calculator.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\bin\Debug\netcoreapp2.1\11.Geometry-Calculator.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\bin\Debug\netcoreapp2.1\11.Geometry-Calculator.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\obj\Debug\netcoreapp2.1\11.Geometry-Calculator.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\obj\Debug\netcoreapp2.1\11.Geometry-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\obj\Debug\netcoreapp2.1\11.Geometry-Calculator.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\obj\Debug\netcoreapp2.1\11.Geometry-Calculator.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\obj\Debug\netcoreapp2.1\11.Geometry-Calculator.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\11.Geometry-Calculator\obj\Debug\netcoreapp2.1\11.Geometry-Calculator.pdb
