@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\obj\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\obj\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\obj\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\bin\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\bin\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\bin\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\bin\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\bin\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\obj\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\obj\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\15.Debugging-Instruction-Set\obj\Debug\netcoreapp2.1\15.Debugging-Instruction-Set.csprojAssemblyReference.cache

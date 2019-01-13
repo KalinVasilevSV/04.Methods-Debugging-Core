@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\bin\Debug\netcoreapp2.1\14.Debugging-String.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\bin\Debug\netcoreapp2.1\14.Debugging-String.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\bin\Debug\netcoreapp2.1\14.Debugging-String.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\bin\Debug\netcoreapp2.1\14.Debugging-String.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\bin\Debug\netcoreapp2.1\14.Debugging-String.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\obj\Debug\netcoreapp2.1\14.Debugging-String.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\obj\Debug\netcoreapp2.1\14.Debugging-String.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\obj\Debug\netcoreapp2.1\14.Debugging-String.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\obj\Debug\netcoreapp2.1\14.Debugging-String.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\obj\Debug\netcoreapp2.1\14.Debugging-String.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\14.Debugging-String\obj\Debug\netcoreapp2.1\14.Debugging-String.pdb

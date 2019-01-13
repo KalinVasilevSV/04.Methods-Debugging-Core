@@ -25,15 +25,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Cube-Properties", "10.Cu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Geometry-Calculator", "11.Geometry-Calculator\11.Geometry-Calculator.csproj", "{0840442E-A677-49B5-978A-69F1E6F2636A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Master-Numbers", "11.Master-Numbers\11.Master-Numbers.csproj", "{E3062F3C-24A0-4CD5-8841-93D91E327EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Master-Numbers", "11.Master-Numbers\11.Master-Numbers.csproj", "{E3062F3C-24A0-4CD5-8841-93D91E327EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Master-Numbers-v2", "11.Master-Numbers-v2\11.Master-Numbers-v2.csproj", "{EB98B367-68C1-4758-B006-4187963B2F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Master-Numbers-v2", "11.Master-Numbers-v2\11.Master-Numbers-v2.csproj", "{EB98B367-68C1-4758-B006-4187963B2F93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Factorial", "12.Factorial\12.Factorial.csproj", "{B30ECEE8-14AB-40EB-9223-4D8062DC9985}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Factorial", "12.Factorial\12.Factorial.csproj", "{B30ECEE8-14AB-40EB-9223-4D8062DC9985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Factorial-Trailing-Zeroes", "13.Factorial-Trailing-Zeroes\13.Factorial-Trailing-Zeroes.csproj", "{B3B1B4E0-CD61-41AB-816F-F127AE61C144}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Factorial-Trailing-Zeroes", "13.Factorial-Trailing-Zeroes\13.Factorial-Trailing-Zeroes.csproj", "{B3B1B4E0-CD61-41AB-816F-F127AE61C144}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Debugging-String", "14.Debugging-String\14.Debugging-String.csproj", "{C1BBE7B7-D120-4597-A060-B721B1B592F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.Debugging-String", "14.Debugging-String\14.Debugging-String.csproj", "{C1BBE7B7-D120-4597-A060-B721B1B592F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Debugging-Instruction-Set", "15.Debugging-Instruction-Set\15.Debugging-Instruction-Set.csproj", "{67C3E7B8-B47C-43A3-8189-EEA0C1289674}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{C1BBE7B7-D120-4597-A060-B721B1B592F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1BBE7B7-D120-4597-A060-B721B1B592F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1BBE7B7-D120-4597-A060-B721B1B592F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67C3E7B8-B47C-43A3-8189-EEA0C1289674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67C3E7B8-B47C-43A3-8189-EEA0C1289674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67C3E7B8-B47C-43A3-8189-EEA0C1289674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67C3E7B8-B47C-43A3-8189-EEA0C1289674}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
