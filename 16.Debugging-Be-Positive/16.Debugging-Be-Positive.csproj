@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_16.Debugging_Be_Positive</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BePositive_broken.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="BePositive_broken.cs" />
+  </ItemGroup>
+
+</Project>

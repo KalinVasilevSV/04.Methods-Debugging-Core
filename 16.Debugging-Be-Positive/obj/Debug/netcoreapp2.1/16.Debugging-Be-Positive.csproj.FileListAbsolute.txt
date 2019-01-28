@@ -1,0 +1,11 @@
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\obj\Debug\netcoreapp2.1\16.Debugging-Be-Positive.csprojAssemblyReference.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\obj\Debug\netcoreapp2.1\16.Debugging-Be-Positive.csproj.CoreCompileInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\obj\Debug\netcoreapp2.1\16.Debugging-Be-Positive.AssemblyInfoInputs.cache
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\obj\Debug\netcoreapp2.1\16.Debugging-Be-Positive.AssemblyInfo.cs
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\bin\Debug\netcoreapp2.1\16.Debugging-Be-Positive.deps.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\bin\Debug\netcoreapp2.1\16.Debugging-Be-Positive.runtimeconfig.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\bin\Debug\netcoreapp2.1\16.Debugging-Be-Positive.runtimeconfig.dev.json
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\bin\Debug\netcoreapp2.1\16.Debugging-Be-Positive.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\bin\Debug\netcoreapp2.1\16.Debugging-Be-Positive.pdb
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\obj\Debug\netcoreapp2.1\16.Debugging-Be-Positive.dll
+C:\Users\K\Documents\Visual Studio 2017\ProjectsFundamentals2018\04.Methods-Debuging-Core\16.Debugging-Be-Positive\obj\Debug\netcoreapp2.1\16.Debugging-Be-Positive.pdb
